@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abinash!<br>👩🏻‍💻Software Engineer sharing about my journey and learning new tech
+Hi, I'm Abinash!<br>Software Engineer sharing about my journey and learning in tech
 
 
 # 💻 Tech Stack:
