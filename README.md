@@ -1,4 +1,3 @@
-![MasterHead](https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
 <h1>Hi 👋, I'm Abinash</h1>
 <h3>A developer from India</h3>
 # 💻 Tech Stack:
